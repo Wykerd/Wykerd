@@ -27,7 +27,7 @@
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/) 
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
 
-### Github Stats
+### Github Stats 📈
 [![Wykerd's Github stats](https://github-readme-stats.vercel.app/api?username=Wykerd&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wykerd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### How to reach me 📫 
