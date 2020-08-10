@@ -4,7 +4,7 @@
 
 👯 I’m looking to collaborate on interesting projects
 
-🌱 I’m currently learning native compiled languages like C/C++
+🌱 I’m currently learning C/C++
 
 ### Languages and Tools 🛠️
 
