@@ -29,7 +29,7 @@
 
 ### Github Stats 📈
 [![Wykerd's Github stats](https://github-readme-stats.vercel.app/api?username=Wykerd&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wykerd&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wykerd&layout=compact&exclude_repo=libbpg)](https://github.com/anuraghazra/github-readme-stats)
 ### How to reach me 📫 
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" />](https://github.com/Wykerd) 
 [<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" />](https://twitter.com/DanielWykerd)
