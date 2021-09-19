@@ -17,6 +17,7 @@
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/) 
 [<img alt="C/C++" src="https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="CMake" src="https://img.shields.io/badge/-CMake-00599C?style=flat-square&logo=cmake&logoColor=white" />](http://www.cplusplus.com/)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img alt="Babel" src="https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel&logoColor=white" />](https://babeljs.io/) 
 [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/) 
