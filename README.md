@@ -2,10 +2,6 @@
 
 😄 Pronouns: he/him
 
-👯 I’m looking to collaborate on interesting projects
-
-🌱 I’m currently learning C/C++
-
 ### Languages and Tools 🛠️
 
 [<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/) 
