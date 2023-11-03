@@ -1,13 +1,13 @@
 ### Hi there, I'm Daniel 👋
 
-😄 Pronouns: he/him
+Self-taught full stack developer and Electrical and Electronic Engineering undergrad at Stellenbosch University, South Africa.
 
+<!--
 ### Languages 👨‍💻
 [<img alt="C/C++" src="https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org/) 
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white" />](https://www.embarcadero.com/products/delphi) 
-[<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 
 ### Tools 🛠️
 
@@ -27,7 +27,6 @@
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/) 
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
 
-<!--
 **Wykerd/Wykerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
