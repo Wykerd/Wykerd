@@ -1,6 +1,8 @@
 ### Hi there, I'm Daniel 👋
 
-Self-taught full stack developer and Electrical and Electronic Engineering undergrad at Stellenbosch University, South Africa.
+Junior Control & Instrumentation Engineer at Hatch. 
+
+Self-taught full stack developer with a Bachelor's of Engineering in Electrical and Electronic Engineering focusing on Informatics from Stellenbosch University, South Africa.
 
 <!--
 ### Languages 👨‍💻
